@@ -1,0 +1,240 @@
+2024-10-29 17:06:07 INFO  LoginTest:16 - ** Starting Execution of Login Test **
+2024-10-29 17:06:07 INFO  LoginTest:20 - ** Navigating to Login Page **
+2024-10-29 17:06:08 INFO  LoginTest:24 - ** Provide Login Details **
+2024-10-29 17:06:10 INFO  LoginTest:30 - ** Verifying Login Success **
+2024-10-29 17:06:10 INFO  LoginTest:48 - ** Completed Execution of Login Test **
+2024-10-29 17:06:18 INFO  AccountRegistrationTest:15 - ** Starting Exection of AccountRegistration Test **
+2024-10-29 17:06:18 INFO  AccountRegistrationTest:20 - ** Navigating to Account Registration Page **
+2024-10-29 17:06:19 INFO  AccountRegistrationTest:24 - ** Providing Customer Details **
+2024-10-29 17:06:20 INFO  AccountRegistrationTest:29 - ** Password Setup **
+2024-10-29 17:06:22 INFO  AccountRegistrationTest:36 - ** Account Registration Complete **
+2024-10-29 17:06:22 INFO  AccountRegistrationTest:37 - ** Registration Confirmation Message Check **
+2024-10-29 17:06:22 INFO  AccountRegistrationTest:40 - ** After Registration continue to Login Page **
+2024-10-29 17:06:22 INFO  AccountRegistrationTest:56 - ** Completed Execution of AccountRegistration Test **
+2024-10-29 17:08:36 INFO  LoginTest:16 - ** Starting Execution of Login Test **
+2024-10-29 17:08:36 INFO  LoginTest:20 - ** Navigating to Login Page **
+2024-10-29 17:08:37 INFO  LoginTest:24 - ** Provide Login Details **
+2024-10-29 17:08:39 INFO  LoginTest:30 - ** Verifying Login Success **
+2024-10-29 17:08:39 INFO  LoginTest:48 - ** Completed Execution of Login Test **
+2024-10-29 17:08:46 INFO  AccountRegistrationTest:15 - ** Starting Exection of AccountRegistration Test **
+2024-10-29 17:08:47 INFO  AccountRegistrationTest:20 - ** Navigating to Account Registration Page **
+2024-10-29 17:08:48 INFO  AccountRegistrationTest:24 - ** Providing Customer Details **
+2024-10-29 17:08:49 INFO  AccountRegistrationTest:29 - ** Password Setup **
+2024-10-29 17:08:51 INFO  AccountRegistrationTest:36 - ** Account Registration Complete **
+2024-10-29 17:08:51 INFO  AccountRegistrationTest:37 - ** Registration Confirmation Message Check **
+2024-10-29 17:08:51 INFO  AccountRegistrationTest:40 - ** After Registration continue to Login Page **
+2024-10-29 17:08:51 INFO  AccountRegistrationTest:56 - ** Completed Execution of AccountRegistration Test **
+2024-10-29 17:59:31 INFO  MyAccountPageTest:16 - ** Starting Exection of LoginPage Elements Test **
+2024-10-29 17:59:32 INFO  MyAccountPageTest:20 - ** Navigating to Login Page **
+2024-10-29 17:59:32 INFO  MyAccountPageTest:24 - ** Provide Login Details **
+2024-10-29 17:59:34 INFO  MyAccountPageTest:28 - ** Verifying My Account Page Elements **
+2024-10-29 17:59:35 INFO  MyAccountPageTest:53 - ** Completed Execution of Login Test **
+2024-10-29 18:03:37 INFO  MyAccountPageTest:16 - ** Starting Execution of LoginPage Elements Test **
+2024-10-29 18:03:37 INFO  MyAccountPageTest:20 - ** Navigating to Login Page **
+2024-10-29 18:03:38 INFO  MyAccountPageTest:24 - ** Provide Login Details **
+2024-10-29 18:03:40 INFO  MyAccountPageTest:28 - ** Verifying My Account Page Elements **
+2024-10-29 18:03:41 ERROR MyAccountPageTest:53 - Test Failed!
+2024-10-29 18:08:31 INFO  AccountPageTest:16 - ** Starting Execution of LoginPage Elements Test **
+2024-10-29 18:08:31 INFO  AccountPageTest:20 - ** Navigating to Login Page **
+2024-10-29 18:08:32 INFO  AccountPageTest:24 - ** Provide Login Details **
+2024-10-29 18:08:34 INFO  AccountPageTest:28 - ** Verifying Account Page Elements **
+2024-10-29 18:08:34 INFO  AccountPageTest:31 - ** Verify Text-My Account Is Present**
+2024-10-29 18:08:34 INFO  AccountPageTest:38 - ** Verify Text-My Affiliate Account Is Present **
+2024-10-29 18:08:34 INFO  AccountPageTest:45 - ** Verify Text-My Orders Is Present **
+2024-10-29 18:08:34 INFO  AccountPageTest:52 - ** Verify Text-Newsletter Is Present**
+2024-10-29 18:08:34 ERROR AccountPageTest:56 - Test Failed!
+2024-10-29 19:07:27 INFO  LoginTest:16 - ** Starting Execution of Login Test **
+2024-10-29 19:07:28 INFO  LoginTest:20 - ** Navigating to Login Page **
+2024-10-29 19:07:29 INFO  LoginTest:24 - ** Provide Login Details **
+2024-10-29 19:07:31 INFO  LoginTest:30 - ** Verifying Login Success **
+2024-10-29 19:07:31 INFO  LoginTest:48 - ** Completed Execution of Login Test **
+2024-10-29 19:07:36 INFO  AccountRegistrationTest:15 - ** Starting Exection of AccountRegistration Test **
+2024-10-29 19:07:37 INFO  AccountRegistrationTest:20 - ** Navigating to Account Registration Page **
+2024-10-29 19:07:39 INFO  AccountRegistrationTest:24 - ** Providing Customer Details **
+2024-10-29 19:07:39 INFO  AccountRegistrationTest:29 - ** Password Setup **
+2024-10-29 19:07:41 INFO  AccountRegistrationTest:36 - ** Account Registration Complete **
+2024-10-29 19:07:41 INFO  AccountRegistrationTest:37 - ** Registration Confirmation Message Check **
+2024-10-29 19:07:42 INFO  AccountRegistrationTest:40 - ** After Registration continue to Login Page **
+2024-10-29 19:07:42 INFO  AccountRegistrationTest:56 - ** Completed Execution of AccountRegistration Test **
+2024-10-29 19:07:46 INFO  AccountPg_LinkTxtTest:15 - ** Starting Execution of Account Page Link_Text Elements Test **
+2024-10-29 19:07:47 INFO  AccountPg_LinkTxtTest:19 - ** Navigating to Login Page **
+2024-10-29 19:07:47 INFO  AccountPg_LinkTxtTest:23 - ** Provide Login Details **
+2024-10-29 19:07:49 INFO  AccountPg_LinkTxtTest:27 - ** Verifying Account Page Link_Text Elements **
+2024-10-29 19:07:49 INFO  AccountPg_LinkTxtTest:30 - ** Verifying Link Texts Under Header-My Account **
+2024-10-29 19:07:49 INFO  AccountPg_LinkTxtTest:31 - ** Verify Text-Edit your account information Is Present**
+2024-10-29 19:07:49 INFO  AccountPg_LinkTxtTest:38 - ** Verify Text-Change your password Is Present **
+2024-10-29 19:07:49 INFO  AccountPg_LinkTxtTest:45 - ** Verify Text-Modify your address book entries Is Present **
+2024-10-29 19:07:49 INFO  AccountPg_LinkTxtTest:52 - ** Verify Text-Modify your wish list Is Present**
+2024-10-29 19:07:49 INFO  AccountPg_LinkTxtTest:59 - ** Verifying Link Texts Under Header-My Orders **
+2024-10-29 19:07:49 INFO  AccountPg_LinkTxtTest:60 - ** Verify Text-View your order history Is Present**
+2024-10-29 19:07:50 ERROR AccountPg_LinkTxtTest:64 - Test Failed!
+2024-10-29 19:07:54 INFO  AccountPage_HeaderTxtTest:16 - ** Starting Execution of Account Page Header_Text Elements Test **
+2024-10-29 19:07:54 INFO  AccountPage_HeaderTxtTest:20 - ** Navigating to Login Page **
+2024-10-29 19:07:55 INFO  AccountPage_HeaderTxtTest:24 - ** Provide Login Details **
+2024-10-29 19:07:57 INFO  AccountPage_HeaderTxtTest:28 - ** Verifying Account Page Header_Text Elements **
+2024-10-29 19:07:57 INFO  AccountPage_HeaderTxtTest:31 - ** Verify Text-My Account Is Present**
+2024-10-29 19:07:57 INFO  AccountPage_HeaderTxtTest:38 - ** Verify Text-My Affiliate Account Is Present **
+2024-10-29 19:07:57 INFO  AccountPage_HeaderTxtTest:45 - ** Verify Text-My Orders Is Present **
+2024-10-29 19:07:57 INFO  AccountPage_HeaderTxtTest:52 - ** Verify Text-Newsletter Is Present**
+2024-10-29 19:07:57 INFO  AccountPage_HeaderTxtTest:68 - ** Completed Execution of Account Page Header_Text Elements Test **
+2024-10-29 19:11:42 INFO  AccountPg_LinkTxtTest:15 - ** Starting Execution of Account Page Link_Text Elements Test **
+2024-10-29 19:11:42 INFO  AccountPg_LinkTxtTest:19 - ** Navigating to Login Page **
+2024-10-29 19:11:43 INFO  AccountPg_LinkTxtTest:23 - ** Provide Login Details **
+2024-10-29 19:11:45 INFO  AccountPg_LinkTxtTest:27 - ** Verifying Account Page Link_Text Elements **
+2024-10-29 19:11:45 INFO  AccountPg_LinkTxtTest:30 - ** Verifying Link Texts Under Header-My Account **
+2024-10-29 19:11:45 INFO  AccountPg_LinkTxtTest:31 - ** Verify Text-Edit your account information Is Present**
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:38 - ** Verify Text-Change your password Is Present **
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:45 - ** Verify Text-Modify your address book entries Is Present **
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:52 - ** Verify Text-Modify your wish list Is Present**
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:59 - ** Verifying Link Texts Under Header-My Orders **
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:60 - ** Verify Text-View your order history Is Present**
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:67 - ** Verify Text-Downloads Is Present **
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:74 - ** Verify Text-Your Reward Points Is Present **
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:81 - ** Verify Text-View your return requests Is Present**
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:88 - ** Verify Text-Your Transactions Is Present**
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:96 - ** Verify Text-Recurring payments Is Present**
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:103 - ** Verifying Link Texts Under Header-My Affiliate Account **
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:104 - ** Verify Text-Register for an affiliate account Is Present**
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:111 - ** Verifying Link Texts Under Header-Newsletter **
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:112 - ** Verify Text-Subscribe / unsubscribe to newsletter Is Present**
+2024-10-29 19:11:46 INFO  AccountPg_LinkTxtTest:128 - ** Completed Execution of Account Page Link_Text Elements Test **
+2024-10-29 19:11:52 INFO  AccountPage_HeaderTxtTest:16 - ** Starting Execution of Account Page Header_Text Elements Test **
+2024-10-29 19:11:52 INFO  AccountPage_HeaderTxtTest:20 - ** Navigating to Login Page **
+2024-10-29 19:11:53 INFO  AccountPage_HeaderTxtTest:24 - ** Provide Login Details **
+2024-10-29 19:11:55 INFO  AccountPage_HeaderTxtTest:28 - ** Verifying Account Page Header_Text Elements **
+2024-10-29 19:11:55 INFO  AccountPage_HeaderTxtTest:31 - ** Verify Text-My Account Is Present**
+2024-10-29 19:11:55 INFO  AccountPage_HeaderTxtTest:38 - ** Verify Text-My Affiliate Account Is Present **
+2024-10-29 19:11:55 INFO  AccountPage_HeaderTxtTest:45 - ** Verify Text-My Orders Is Present **
+2024-10-29 19:11:55 INFO  AccountPage_HeaderTxtTest:52 - ** Verify Text-Newsletter Is Present**
+2024-10-29 19:11:55 INFO  AccountPage_HeaderTxtTest:68 - ** Completed Execution of Account Page Header_Text Elements Test **
+2024-10-29 19:18:01 INFO  AccountPg_LinkTxtTest:15 - ** Starting Execution of Account Page Link_Text Elements Test **
+2024-10-29 19:18:01 INFO  AccountPg_LinkTxtTest:19 - ** Navigating to Login Page **
+2024-10-29 19:18:02 INFO  AccountPg_LinkTxtTest:23 - ** Provide Login Details **
+2024-10-29 19:18:04 INFO  AccountPg_LinkTxtTest:27 - ** Verifying Account Page Link_Text Elements **
+2024-10-29 19:18:04 INFO  AccountPg_LinkTxtTest:30 - ** Verify Text-My Account Is Present**
+2024-10-29 19:18:04 INFO  AccountPg_LinkTxtTest:37 - ** Verifying Link Texts Under Header-My Account **
+2024-10-29 19:18:04 INFO  AccountPg_LinkTxtTest:38 - ** Verify Text-Edit your account information Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:45 - ** Verify Text-Change your password Is Present **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:52 - ** Verify Text-Modify your address book entries Is Present **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:59 - ** Verify Text-Modify your wish list Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:66 - ** Verify Text-My Orders Is Present **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:73 - ** Verifying Link Texts Under Header-My Orders **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:74 - ** Verify Text-View your order history Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:81 - ** Verify Text-Downloads Is Present **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:88 - ** Verify Text-Your Reward Points Is Present **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:95 - ** Verify Text-View your return requests Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:102 - ** Verify Text-Your Transactions Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:110 - ** Verify Text-Recurring payments Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:117 - ** Verify Text-My Affiliate Account Is Present **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:124 - ** Verifying Link Texts Under Header-My Affiliate Account **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:125 - ** Verify Text-Register for an affiliate account Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:132 - ** Verify Text-Newsletter Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:139 - ** Verifying Link Texts Under Header-Newsletter **
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:140 - ** Verify Text-Subscribe / unsubscribe to newsletter Is Present**
+2024-10-29 19:18:05 INFO  AccountPg_LinkTxtTest:156 - ** Completed Execution of Account Page Link_Text Elements Test **
+2024-10-29 19:48:08 INFO  AccountPg_HeaderAndLink_TxtTest:15 - ** Starting Execution of Account Page Link_Text Elements Test **
+2024-10-29 19:48:08 INFO  AccountPg_HeaderAndLink_TxtTest:19 - ** Navigating to Login Page **
+2024-10-29 19:48:09 INFO  AccountPg_HeaderAndLink_TxtTest:23 - ** Provide Login Details **
+2024-10-29 19:48:11 INFO  AccountPg_HeaderAndLink_TxtTest:27 - ** Verifying Account Page Link_Text Elements **
+2024-10-29 19:48:11 INFO  AccountPg_HeaderAndLink_TxtTest:30 - ** Verify Text-My Account Is Present**
+2024-10-29 19:48:11 INFO  AccountPg_HeaderAndLink_TxtTest:33 - ** Verifying Link Texts Under Header-My Account **
+2024-10-29 19:48:11 INFO  AccountPg_HeaderAndLink_TxtTest:34 - ** Verify Text-Edit your account information Is Present**
+2024-10-29 19:48:11 INFO  AccountPg_HeaderAndLink_TxtTest:47 - ** Completed Execution of Account Page Link_Text Elements Test **
+2024-10-29 19:57:27 INFO  AccountPg_HeaderAndLink_TxtTest:15 - ** Starting Execution of Account Page Header & Link_Text Elements Test **
+2024-10-29 19:57:27 INFO  AccountPg_HeaderAndLink_TxtTest:19 - ** Navigating to Login Page **
+2024-10-29 19:57:27 INFO  AccountPg_HeaderAndLink_TxtTest:23 - ** Provide Login Details **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:27 - ** Verifying Account Page Link_Text Elements **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:30 - ** Verify Text-My Account Is Present**
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:33 - ** Verifying Link Texts Under Header-My Account **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:34 - ** Verify Text-Edit your account information Is Present**
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:36 - ** Verify Text-Change your password Is Present **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:38 - ** Verify Text-Modify your address book entries Is Present **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:40 - ** Verify Text-Modify your wish list Is Present**
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:42 - ** Verify Text-My Orders Is Present **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:44 - ** Verifying Link Texts Under Header-My Orders **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:45 - ** Verify Text-View your order history Is Present**
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:47 - ** Verify Text-Downloads Is Present **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:49 - ** Verify Text-Your Reward Points Is Present **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:51 - ** Verify Text-View your return requests Is Present**
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:53 - ** Verify Text-Your Transactions Is Present**
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:55 - ** Verify Text-Recurring payments Is Present**
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:57 - ** Verify Text-My Affiliate Account Is Present **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:59 - ** Verifying Link Texts Under Header-My Affiliate Account **
+2024-10-29 19:57:29 INFO  AccountPg_HeaderAndLink_TxtTest:60 - ** Verify Text-Register for an affiliate account Is Present**
+2024-10-29 19:57:30 INFO  AccountPg_HeaderAndLink_TxtTest:62 - ** Verify Text-Newsletter Is Present**
+2024-10-29 19:57:30 INFO  AccountPg_HeaderAndLink_TxtTest:64 - ** Verifying Link Texts Under Header-Newsletter **
+2024-10-29 19:57:30 INFO  AccountPg_HeaderAndLink_TxtTest:65 - ** Verify Text-Subscribe / unsubscribe to newsletter Is Present**
+2024-10-29 19:57:30 INFO  AccountPg_HeaderAndLink_TxtTest:69 - ** Completed Execution of Account Page Header & Link_Text Elements Test **
+2024-10-29 20:04:50 INFO  AccountPg_HeaderAndLink_TxtTest:16 - ** Starting Execution of Account Page Header & Link_Text Elements Test **
+2024-10-29 20:04:50 INFO  AccountPg_HeaderAndLink_TxtTest:20 - ** Navigating to Login Page **
+2024-10-29 20:04:50 INFO  AccountPg_HeaderAndLink_TxtTest:24 - ** Provide Login Details **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:28 - ** Verifying Account Page Link_Text Elements **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:31 - ** Verify Text-My Account Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:34 - ** Verifying Link Texts Under Header-My Account **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:35 - ** Verify Text-Edit your account information Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:37 - ** Verify Text-Change your password Is Present **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:39 - ** Verify Text-Modify your address book entries Is Present **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:41 - ** Verify Text-Modify your wish list Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:43 - ** Verify Text-My Orders Is Present **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:45 - ** Verifying Link Texts Under Header-My Orders **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:46 - ** Verify Text-View your order history Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:48 - ** Verify Text-Downloads Is Present **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:50 - ** Verify Text-Your Reward Points Is Present **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:52 - ** Verify Text-View your return requests Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:54 - ** Verify Text-Your Transactions Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:56 - ** Verify Text-Recurring payments Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:58 - ** Verify Text-My Affiliate Account Is Present **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:60 - ** Verifying Link Texts Under Header-My Affiliate Account **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:61 - ** Verify Text-Register for an affiliate account Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:63 - ** Verify Text-Newsletter Is Present**
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:65 - ** Verifying Link Texts Under Header-Newsletter **
+2024-10-29 20:04:52 INFO  AccountPg_HeaderAndLink_TxtTest:66 - ** Verify Text-Subscribe / unsubscribe to newsletter Is Present**
+2024-10-29 20:07:47 INFO  AccountPg_HeaderAndLink_TxtTest:16 - ** Starting Execution of Account Page Header & Link_Text Elements Test **
+2024-10-29 20:07:47 INFO  AccountPg_HeaderAndLink_TxtTest:20 - ** Navigating to Login Page **
+2024-10-29 20:07:48 INFO  AccountPg_HeaderAndLink_TxtTest:24 - ** Provide Login Details **
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:28 - ** Verifying Account Page Link_Text Elements **
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:31 - ** Verify Text-My Account Is Present**
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:34 - ** Verifying Link Texts Under Header-My Account **
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:35 - ** Verify Text-Edit your account information Is Present**
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:37 - ** Verify Text-Change your password Is Present **
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:39 - ** Verify Text-Modify your address book entries Is Present **
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:41 - ** Verify Text-Modify your wish list Is Present**
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:43 - ** Verify Text-My Orders Is Present **
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:45 - ** Verifying Link Texts Under Header-My Orders **
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:46 - ** Verify Text-View your order history Is Present**
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:48 - ** Verify Text-Downloads Is Present **
+2024-10-29 20:07:49 INFO  AccountPg_HeaderAndLink_TxtTest:50 - ** Verify Text-Your Reward Points Is Present **
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:52 - ** Verify Text-View your return requests Is Present**
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:54 - ** Verify Text-Your Transactions Is Present**
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:56 - ** Verify Text-Recurring payments Is Present**
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:58 - ** Verify Text-My Affiliate Account Is Present **
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:60 - ** Verifying Link Texts Under Header-My Affiliate Account **
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:61 - ** Verify Text-Register for an affiliate account Is Present**
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:63 - ** Verify Text-Newsletter Is Present**
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:65 - ** Verifying Link Texts Under Header-Newsletter **
+2024-10-29 20:07:50 INFO  AccountPg_HeaderAndLink_TxtTest:66 - ** Verify Text-Subscribe / unsubscribe to newsletter Is Present**
+2024-10-29 20:08:29 INFO  AccountPg_HeaderAndLink_TxtTest:16 - ** Starting Execution of Account Page Header & Link_Text Elements Test **
+2024-10-29 20:08:29 INFO  AccountPg_HeaderAndLink_TxtTest:20 - ** Navigating to Login Page **
+2024-10-29 20:08:29 INFO  AccountPg_HeaderAndLink_TxtTest:24 - ** Provide Login Details **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:28 - ** Verifying Account Page Link_Text Elements **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:31 - ** Verify Text-My Account Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:34 - ** Verifying Link Texts Under Header-My Account **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:35 - ** Verify Text-Edit your account information Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:37 - ** Verify Text-Change your password Is Present **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:39 - ** Verify Text-Modify your address book entries Is Present **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:41 - ** Verify Text-Modify your wish list Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:43 - ** Verify Text-My Orders Is Present **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:45 - ** Verifying Link Texts Under Header-My Orders **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:46 - ** Verify Text-View your order history Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:48 - ** Verify Text-Downloads Is Present **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:50 - ** Verify Text-Your Reward Points Is Present **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:52 - ** Verify Text-View your return requests Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:54 - ** Verify Text-Your Transactions Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:56 - ** Verify Text-Recurring payments Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:58 - ** Verify Text-My Affiliate Account Is Present **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:60 - ** Verifying Link Texts Under Header-My Affiliate Account **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:61 - ** Verify Text-Register for an affiliate account Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:63 - ** Verify Text-Newsletter Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:65 - ** Verifying Link Texts Under Header-Newsletter **
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:66 - ** Verify Text-Subscribe / unsubscribe to newsletter Is Present**
+2024-10-29 20:08:31 INFO  AccountPg_HeaderAndLink_TxtTest:70 - ** Completed Execution of Account Page Header & Link_Text Elements Test **

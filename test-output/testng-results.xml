@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-08T15:34:56 IST" name="Suite" finished-at="2024-11-08T15:35:35 IST" duration-ms="39204">
+    <groups>
+    </groups>
+    <test started-at="2024-11-08T15:34:56 IST" name="Test" finished-at="2024-11-08T15:35:35 IST" duration-ms="39204">
+      <class name="testCases.AccountPg_HeaderAndLink_TxtTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.AccountPg_HeaderAndLink_TxtTest@6c6cb480]" started-at="2024-11-08T15:35:28 IST" name="setup" finished-at="2024-11-08T15:35:32 IST" duration-ms="3660" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:testCases.AccountPg_HeaderAndLink_TxtTest@6c6cb480]" started-at="2024-11-08T15:35:32 IST" name="toLogin" finished-at="2024-11-08T15:35:34 IST" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="verify_LinkTxtElements_AccountPage()[pri:0, instance:testCases.AccountPg_HeaderAndLink_TxtTest@6c6cb480]" started-at="2024-11-08T15:35:34 IST" name="verify_LinkTxtElements_AccountPage" finished-at="2024-11-08T15:35:35 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LinkTxtElements_AccountPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.AccountPg_HeaderAndLink_TxtTest@6c6cb480]" started-at="2024-11-08T15:35:35 IST" name="teardown" finished-at="2024-11-08T15:35:35 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.AccountPg_HeaderAndLink_TxtTest -->
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@765d7657]" started-at="2024-11-08T15:34:56 IST" name="setup" finished-at="2024-11-08T15:35:01 IST" duration-ms="4583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_LoginTest()[pri:0, instance:testCases.LoginTest@765d7657]" started-at="2024-11-08T15:35:01 IST" name="verify_LoginTest" finished-at="2024-11-08T15:35:03 IST" duration-ms="2311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginTest@765d7657]" started-at="2024-11-08T15:35:03 IST" name="teardown" finished-at="2024-11-08T15:35:03 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.AccountRegistrationTest@36fc695d]" started-at="2024-11-08T15:35:21 IST" name="setup" finished-at="2024-11-08T15:35:25 IST" duration-ms="3673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_AccountRegistration()[pri:0, instance:testCases.AccountRegistrationTest@36fc695d]" started-at="2024-11-08T15:35:25 IST" name="verify_AccountRegistration" finished-at="2024-11-08T15:35:28 IST" duration-ms="3695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_AccountRegistration -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.AccountRegistrationTest@36fc695d]" started-at="2024-11-08T15:35:28 IST" name="teardown" finished-at="2024-11-08T15:35:28 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.AccountRegistrationTest -->
+      <class name="testCases.SearchTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.SearchTest@411f53a0]" started-at="2024-11-08T15:35:03 IST" name="setup" finished-at="2024-11-08T15:35:07 IST" duration-ms="3853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_Search()[pri:1, instance:testCases.SearchTest@411f53a0]" started-at="2024-11-08T15:35:07 IST" name="verify_Search" finished-at="2024-11-08T15:35:11 IST" duration-ms="3637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Search -->
+        <test-method signature="verify_Search_changeCategory()[pri:2, instance:testCases.SearchTest@411f53a0]" started-at="2024-11-08T15:35:11 IST" name="verify_Search_changeCategory" finished-at="2024-11-08T15:35:13 IST" duration-ms="2121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Search_changeCategory -->
+        <test-method signature="verify_Searchfilter_SortBy_Show()[pri:3, instance:testCases.SearchTest@411f53a0]" started-at="2024-11-08T15:35:13 IST" name="verify_Searchfilter_SortBy_Show" finished-at="2024-11-08T15:35:15 IST" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Searchfilter_SortBy_Show -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.SearchTest@411f53a0]" started-at="2024-11-08T15:35:15 IST" name="teardown" finished-at="2024-11-08T15:35:15 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.SearchTest -->
+      <class name="testCases.InvalidString_SearchTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.InvalidString_SearchTest@2b71e916]" started-at="2024-11-08T15:35:15 IST" name="setup" finished-at="2024-11-08T15:35:19 IST" duration-ms="3636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_Search_EmptyString()[pri:0, instance:testCases.InvalidString_SearchTest@2b71e916]" started-at="2024-11-08T15:35:19 IST" name="verify_Search_EmptyString" finished-at="2024-11-08T15:35:20 IST" duration-ms="1102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Search_EmptyString -->
+        <test-method signature="verify_Search_InvalidString()[pri:0, instance:testCases.InvalidString_SearchTest@2b71e916]" started-at="2024-11-08T15:35:20 IST" name="verify_Search_InvalidString" finished-at="2024-11-08T15:35:21 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Search_InvalidString -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.InvalidString_SearchTest@2b71e916]" started-at="2024-11-08T15:35:21 IST" name="teardown" finished-at="2024-11-08T15:35:21 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.InvalidString_SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

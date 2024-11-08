@@ -1,0 +1,718 @@
+2024-11-06 11:23:06 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:23:06 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:23:06 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:23:06 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:23:07 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:23:07 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:23:07 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:23:07 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:23:07 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:23:09 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:23:09 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:23:09 INFO  SearchTest:53 - ** From The Home Page **
+2024-11-06 11:23:09 INFO  SearchTest:55 - ** Enter Search Text **
+2024-11-06 11:23:09 INFO  SearchTest:57 - ** Click On Search Icon **
+2024-11-06 11:23:10 INFO  SearchTest:60 - ** Navigating To Search Page **
+2024-11-06 11:25:19 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:25:19 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:25:19 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:25:19 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:25:20 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:25:21 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:25:21 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:25:21 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:25:21 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:25:22 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:25:22 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:25:22 INFO  SearchTest:52 - ** From The Home Page **
+2024-11-06 11:25:22 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 11:25:22 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 11:25:23 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:28:11 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:28:11 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:28:11 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:28:11 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:28:12 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:28:13 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:28:13 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:28:13 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:28:13 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:28:14 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:28:14 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:28:14 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:29:23 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:29:23 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:29:23 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:29:23 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:29:24 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:29:25 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:29:25 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:29:25 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:29:25 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:29:26 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:29:26 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:29:26 INFO  SearchTest:52 - ** From The Home Page **
+2024-11-06 11:29:26 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 11:29:26 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 11:29:27 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:30:23 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:30:23 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:30:23 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:30:23 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:30:24 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:30:24 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:30:25 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:30:25 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:30:25 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:30:26 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:30:26 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:30:26 INFO  SearchTest:52 - ** From The Home Page **
+2024-11-06 11:30:26 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 11:30:26 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 11:30:27 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:32:51 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:32:51 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:32:52 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:32:52 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:32:52 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:32:53 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:32:53 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:32:53 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:32:53 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:32:55 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:32:55 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:32:55 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:34:15 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:34:15 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:34:15 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:34:15 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:34:16 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:34:17 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:34:17 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:34:17 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:34:17 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:34:18 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:34:18 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:34:18 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:36:47 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:36:47 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:36:47 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:36:47 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:36:48 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:36:49 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:36:49 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:36:49 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:36:49 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:36:50 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:36:50 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:36:50 INFO  SearchTest:52 - ** From The Home Page **
+2024-11-06 11:36:50 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 11:36:50 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 11:36:51 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:42:51 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:42:51 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:42:51 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:42:52 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:42:52 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:42:53 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:42:53 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:42:53 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:42:53 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:42:54 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:42:54 INFO  SearchTest:49 - ** Starting Execution Of Advanced Search Test **
+2024-11-06 11:42:54 INFO  SearchTest:52 - ** From The Home Page **
+2024-11-06 11:42:55 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 11:42:55 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 11:42:55 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:42:56 INFO  SearchTest:66 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:42:56 INFO  SearchTest:68 - ** Completed Execution Of Advanced Search Test **
+2024-11-06 11:47:52 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:47:52 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:47:52 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:47:52 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:47:53 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:47:54 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:47:54 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:47:54 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:47:54 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:47:55 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:47:55 INFO  SearchTest:49 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 11:47:55 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 11:47:55 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 11:47:56 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:47:56 INFO  SearchTest:61 - ** Select Category **
+2024-11-06 11:48:35 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:48:35 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:48:36 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:48:36 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:48:36 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:48:37 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:48:37 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:48:37 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:48:37 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:48:38 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:48:39 INFO  SearchTest:49 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 11:48:39 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 11:48:39 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 11:48:39 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:48:40 INFO  SearchTest:61 - ** Select Category **
+2024-11-06 11:48:40 INFO  SearchTest:67 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:48:40 INFO  SearchTest:69 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 11:49:37 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 11:49:37 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 11:49:37 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 11:49:37 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 11:49:38 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 11:49:38 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 11:49:39 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 11:49:39 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:49:39 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 11:49:40 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 11:49:40 INFO  SearchTest:49 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 11:49:40 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 11:49:40 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 11:49:41 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 11:49:41 INFO  SearchTest:61 - ** Select Category **
+2024-11-06 11:49:41 INFO  SearchTest:67 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 11:49:41 INFO  SearchTest:69 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 13:29:24 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 13:29:24 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 13:29:24 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 13:29:25 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 13:29:26 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 13:29:27 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 13:29:27 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 13:29:27 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 13:29:27 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 13:29:29 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 13:29:29 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 13:29:29 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 13:29:29 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 13:29:30 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 13:29:30 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 13:29:31 INFO  SearchTest:65 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 13:29:31 INFO  SearchTest:67 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 13:29:31 INFO  SearchTest:73 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 13:29:31 INFO  SearchTest:75 - ** Navigating To Search Page **
+2024-11-06 13:29:31 INFO  SearchTest:77 - ** Select Sortby Value **
+2024-11-06 13:29:32 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 13:30:24 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 13:30:24 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 13:30:24 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 13:30:24 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 13:30:25 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 13:30:26 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 13:30:26 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 13:30:26 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 13:30:26 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 13:30:28 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 13:30:28 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 13:30:28 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 13:30:28 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 13:30:29 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 13:30:30 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 13:30:31 INFO  SearchTest:73 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 13:30:31 INFO  SearchTest:75 - ** Navigating To Search Page **
+2024-11-06 13:30:32 INFO  SearchTest:77 - ** Select Sortby Value **
+2024-11-06 13:30:32 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:25:10 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:25:10 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:25:10 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:25:10 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:25:11 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:25:12 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:25:12 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:25:12 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:25:12 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:25:14 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:25:14 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:25:14 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:25:14 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:25:15 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:25:16 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:25:17 INFO  SearchTest:73 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:25:17 INFO  SearchTest:75 - ** Navigating To Search Page **
+2024-11-06 14:25:18 INFO  SearchTest:77 - ** Select Sortby Value **
+2024-11-06 14:25:18 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:34:59 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:34:59 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:34:59 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:34:59 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:35:00 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:35:01 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:35:01 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:35:01 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:35:01 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:35:03 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:35:03 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:35:03 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:35:04 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:35:05 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:35:05 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:35:06 INFO  SearchTest:73 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:35:06 INFO  SearchTest:75 - ** Navigating To Search Page **
+2024-11-06 14:35:07 INFO  SearchTest:77 - ** Select Sortby Value **
+2024-11-06 14:35:08 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:36:58 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:36:58 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:36:59 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:36:59 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:37:00 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:37:01 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:37:01 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:37:01 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:37:01 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:37:03 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:37:03 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:37:03 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:37:04 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:37:04 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:37:05 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:37:06 INFO  SearchTest:73 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:37:06 INFO  SearchTest:75 - ** Navigating To Search Page **
+2024-11-06 14:37:07 INFO  SearchTest:77 - ** Select Sortby Value **
+2024-11-06 14:37:08 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:38:23 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:38:23 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:38:23 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:38:23 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:38:24 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:38:25 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:38:25 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:38:25 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:38:25 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:38:27 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:38:27 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:38:27 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:38:27 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:38:28 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:38:29 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:38:30 INFO  SearchTest:73 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:38:30 INFO  SearchTest:75 - ** Navigating To Search Page **
+2024-11-06 14:38:31 INFO  SearchTest:77 - ** Select Sortby Value **
+2024-11-06 14:38:31 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:39:30 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:39:30 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:39:30 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:39:31 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:39:32 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:39:33 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:39:33 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:39:33 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:39:33 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:39:34 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:39:34 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:39:34 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:39:35 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:39:35 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:39:36 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:39:37 INFO  SearchTest:73 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:39:37 INFO  SearchTest:75 - ** Navigating To Search Page **
+2024-11-06 14:39:38 INFO  SearchTest:77 - ** Select Sortby Value **
+2024-11-06 14:39:39 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:42:04 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:42:04 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:42:04 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:42:04 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:42:05 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:42:06 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:42:06 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:42:06 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:42:06 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:42:08 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:42:08 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:42:08 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:42:08 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:42:09 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:42:10 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:42:11 INFO  SearchTest:73 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:42:11 INFO  SearchTest:75 - ** Navigating To Search Page **
+2024-11-06 14:42:12 INFO  SearchTest:77 - ** Select Sortby Value **
+2024-11-06 14:42:13 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:45:11 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:45:11 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:45:11 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:45:11 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:45:12 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:45:13 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:45:13 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:45:13 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:45:13 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:45:15 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:45:15 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:45:15 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:45:15 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:45:16 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:45:17 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:45:18 INFO  SearchTest:79 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:45:18 INFO  SearchTest:81 - ** Navigating To Search Page **
+2024-11-06 14:45:18 INFO  SearchTest:83 - ** Select Sortby Value **
+2024-11-06 14:45:19 INFO  SearchTest:86 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:49:09 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:49:09 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:49:09 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:49:10 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:49:11 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:49:12 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:49:12 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:49:12 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:49:12 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:49:13 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:49:13 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:49:14 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:49:14 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:49:14 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:49:15 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:49:16 INFO  SearchTest:79 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:49:16 INFO  SearchTest:81 - ** Navigating To Search Page **
+2024-11-06 14:49:17 INFO  SearchTest:83 - ** Select Sortby Value **
+2024-11-06 14:49:18 INFO  SearchTest:86 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 14:57:48 INFO  SearchTest:17 - ** Starting Execution Of Search Test **
+2024-11-06 14:57:48 INFO  SearchTest:22 - ** From The Home Page **
+2024-11-06 14:57:48 INFO  SearchTest:24 - ** Enter Search Text **
+2024-11-06 14:57:48 INFO  SearchTest:26 - ** Click On Search Icon **
+2024-11-06 14:57:49 INFO  SearchTest:29 - ** Navigating To Search Page **
+2024-11-06 14:57:50 INFO  SearchTest:32 - ** Verify Search Value Displayed **
+2024-11-06 14:57:50 INFO  SearchTest:34 - ** Verify Search Value Results **
+2024-11-06 14:57:50 INFO  SearchTest:36 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 14:57:50 INFO  SearchTest:38 - ** Verify Navigation to Product Page **
+2024-11-06 14:57:52 INFO  SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-06 14:57:52 INFO  SearchTest:47 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 14:57:52 INFO  SearchTest:52 - ** Enter Search Text **
+2024-11-06 14:57:52 INFO  SearchTest:54 - ** Click On Search Icon **
+2024-11-06 14:57:53 INFO  SearchTest:57 - ** Navigating To Search Page **
+2024-11-06 14:57:54 INFO  SearchTest:59 - ** Select Category **
+2024-11-06 14:57:55 INFO  SearchTest:79 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 14:57:55 INFO  SearchTest:81 - ** Navigating To Search Page **
+2024-11-06 14:57:56 INFO  SearchTest:83 - ** Select Sortby Value **
+2024-11-06 14:57:57 INFO  SearchTest:86 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 15:07:16 INFO  SearchTest:22 - ** Starting Execution Of Search Test **
+2024-11-06 15:07:16 INFO  SearchTest:27 - ** From The Home Page **
+2024-11-06 15:07:16 INFO  SearchTest:29 - ** Enter Search Text **
+2024-11-06 15:07:16 INFO  SearchTest:31 - ** Click On Search Icon **
+2024-11-06 15:07:17 INFO  SearchTest:34 - ** Navigating To Search Page **
+2024-11-06 15:07:18 INFO  SearchTest:37 - ** Verify Search Value Displayed **
+2024-11-06 15:07:19 INFO  SearchTest:39 - ** Verify Search Value Results **
+2024-11-06 15:07:19 INFO  SearchTest:41 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:07:19 INFO  SearchTest:43 - ** Verify Navigation to Product Page **
+2024-11-06 15:07:20 INFO  SearchTest:46 - ** Completed Execution of Search Test**
+2024-11-06 15:07:20 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:07:21 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:07:21 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:07:21 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:07:22 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 15:07:23 INFO  SearchTest:86 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 15:07:23 INFO  SearchTest:88 - ** Navigating To Search Page **
+2024-11-06 15:07:24 INFO  SearchTest:90 - ** Select Sortby Value **
+2024-11-06 15:07:25 INFO  SearchTest:93 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 15:08:36 INFO  SearchTest:22 - ** Starting Execution Of Search Test **
+2024-11-06 15:08:36 INFO  SearchTest:27 - ** From The Home Page **
+2024-11-06 15:08:36 INFO  SearchTest:29 - ** Enter Search Text **
+2024-11-06 15:08:37 INFO  SearchTest:31 - ** Click On Search Icon **
+2024-11-06 15:08:38 INFO  SearchTest:34 - ** Navigating To Search Page **
+2024-11-06 15:08:39 INFO  SearchTest:37 - ** Verify Search Value Displayed **
+2024-11-06 15:08:39 INFO  SearchTest:39 - ** Verify Search Value Results **
+2024-11-06 15:08:39 INFO  SearchTest:41 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:08:39 INFO  SearchTest:43 - ** Verify Navigation to Product Page **
+2024-11-06 15:08:41 INFO  SearchTest:46 - ** Completed Execution of Search Test**
+2024-11-06 15:08:41 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:08:41 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:08:41 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:08:42 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:08:42 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 15:08:43 INFO  SearchTest:68 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:08:43 INFO  SearchTest:80 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 15:08:43 INFO  SearchTest:82 - ** Navigating To Search Page **
+2024-11-06 15:08:44 INFO  SearchTest:84 - ** Select Sortby Value **
+2024-11-06 15:08:45 INFO  SearchTest:87 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 15:11:47 INFO  SearchTest:22 - ** Starting Execution Of Search Test **
+2024-11-06 15:11:47 INFO  SearchTest:27 - ** From The Home Page **
+2024-11-06 15:11:47 INFO  SearchTest:29 - ** Enter Search Text **
+2024-11-06 15:11:47 INFO  SearchTest:31 - ** Click On Search Icon **
+2024-11-06 15:11:48 INFO  SearchTest:34 - ** Navigating To Search Page **
+2024-11-06 15:11:49 INFO  SearchTest:37 - ** Verify Search Value Displayed **
+2024-11-06 15:11:50 INFO  SearchTest:39 - ** Verify Search Value Results **
+2024-11-06 15:11:50 INFO  SearchTest:41 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:11:50 INFO  SearchTest:43 - ** Verify Navigation to Product Page **
+2024-11-06 15:11:51 INFO  SearchTest:46 - ** Completed Execution of Search Test**
+2024-11-06 15:11:51 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:11:52 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:11:52 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:11:52 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:11:53 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 15:11:54 INFO  SearchTest:69 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:11:54 INFO  SearchTest:81 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 15:11:54 INFO  SearchTest:83 - ** Navigating To Search Page **
+2024-11-06 15:11:55 INFO  SearchTest:85 - ** Select Sortby Value **
+2024-11-06 15:11:56 INFO  SearchTest:88 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 15:35:25 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:35:25 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:35:25 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:35:26 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:35:27 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 15:35:27 INFO  SearchTest:70 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:37:35 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:37:36 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:37:36 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:37:37 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:37:38 INFO  SearchTest:65 - ** Select Category **
+2024-11-06 15:39:02 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:39:03 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:39:03 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:39:04 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:39:05 INFO  SearchTest:65 - ** Select Category **
+2024-11-06 15:39:06 INFO  SearchTest:72 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:40:00 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:40:00 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:40:00 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:40:01 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:40:02 INFO  SearchTest:65 - ** Select Category **
+2024-11-06 15:40:04 INFO  SearchTest:72 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:40:53 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:40:53 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:40:53 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:40:54 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:40:55 INFO  SearchTest:65 - ** Select Category **
+2024-11-06 15:40:56 INFO  SearchTest:71 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:43:49 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:43:49 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:43:49 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:43:50 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:43:51 INFO  SearchTest:66 - ** Select Category **
+2024-11-06 15:43:52 INFO  SearchTest:73 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:43:52 INFO  SearchTest:82 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 15:50:02 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:50:02 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:50:02 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:50:03 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:50:04 INFO  SearchTest:66 - ** Select Category **
+2024-11-06 15:50:05 INFO  SearchTest:73 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:50:05 INFO  SearchTest:85 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 15:50:37 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:50:38 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:50:38 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:50:39 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:50:40 INFO  SearchTest:66 - ** Select Category **
+2024-11-06 15:50:41 INFO  SearchTest:73 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:50:41 INFO  SearchTest:85 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 15:51:21 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:51:22 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:51:22 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:51:23 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:51:24 INFO  SearchTest:66 - ** Select Category **
+2024-11-06 15:51:25 INFO  SearchTest:73 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:51:25 INFO  SearchTest:85 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 15:52:07 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:52:07 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:52:07 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:52:08 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:52:09 INFO  SearchTest:66 - ** Select Category **
+2024-11-06 15:52:10 INFO  SearchTest:73 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:57:01 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:57:01 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:57:01 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:57:02 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:57:03 INFO  SearchTest:67 - ** Select Category **
+2024-11-06 15:57:05 INFO  SearchTest:76 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:58:03 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:58:04 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:58:05 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:58:06 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:58:07 INFO  SearchTest:67 - ** Select Category **
+2024-11-06 15:58:07 INFO  SearchTest:76 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 15:59:03 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 15:59:03 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 15:59:03 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 15:59:04 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 15:59:05 INFO  SearchTest:67 - ** Select Category **
+2024-11-06 15:59:06 INFO  SearchTest:79 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:00:00 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:00:01 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 16:00:01 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 16:00:02 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 16:00:02 INFO  SearchTest:67 - ** Select Category **
+2024-11-06 16:00:04 INFO  SearchTest:75 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:19:31 INFO  SearchTest:52 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:19:31 INFO  SearchTest:57 - ** Enter Search Text **
+2024-11-06 16:19:31 INFO  SearchTest:59 - ** Click On Search Icon **
+2024-11-06 16:19:32 INFO  SearchTest:62 - ** Navigating To Search Page **
+2024-11-06 16:19:33 INFO  SearchTest:67 - ** Select Category **
+2024-11-06 16:19:33 INFO  SearchTest:74 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:20:45 INFO  SearchTest:53 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:20:45 INFO  SearchTest:58 - ** Enter Search Text **
+2024-11-06 16:20:45 INFO  SearchTest:60 - ** Click On Search Icon **
+2024-11-06 16:20:46 INFO  SearchTest:63 - ** Navigating To Search Page **
+2024-11-06 16:20:46 INFO  SearchTest:68 - ** Select Category **
+2024-11-06 16:20:47 INFO  SearchTest:75 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:26:21 INFO  SearchTest:53 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:26:21 INFO  SearchTest:58 - ** Enter Search Text **
+2024-11-06 16:26:21 INFO  SearchTest:60 - ** Click On Search Icon **
+2024-11-06 16:26:22 INFO  SearchTest:63 - ** Navigating To Search Page **
+2024-11-06 16:26:22 INFO  SearchTest:68 - ** Select Category **
+2024-11-06 16:26:23 INFO  SearchTest:75 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:34:26 INFO  SearchTest:53 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:34:26 INFO  SearchTest:58 - ** Enter Search Text **
+2024-11-06 16:34:27 INFO  SearchTest:60 - ** Click On Search Icon **
+2024-11-06 16:34:28 INFO  SearchTest:63 - ** Navigating To Search Page **
+2024-11-06 16:34:28 INFO  SearchTest:68 - ** Select Category **
+2024-11-06 16:34:29 INFO  SearchTest:75 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:34:29 INFO  SearchTest:96 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:35:09 INFO  SearchTest:53 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:35:10 INFO  SearchTest:58 - ** Enter Search Text **
+2024-11-06 16:35:10 INFO  SearchTest:60 - ** Click On Search Icon **
+2024-11-06 16:35:11 INFO  SearchTest:63 - ** Navigating To Search Page **
+2024-11-06 16:35:11 INFO  SearchTest:68 - ** Select Category **
+2024-11-06 16:35:12 INFO  SearchTest:75 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:35:12 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:36:18 INFO  SearchTest:23 - ** Starting Execution Of Search Test **
+2024-11-06 16:36:18 INFO  SearchTest:28 - ** From The Home Page **
+2024-11-06 16:36:18 INFO  SearchTest:30 - ** Enter Search Text **
+2024-11-06 16:36:18 INFO  SearchTest:32 - ** Click On Search Icon **
+2024-11-06 16:36:19 INFO  SearchTest:35 - ** Navigating To Search Page **
+2024-11-06 16:36:20 INFO  SearchTest:38 - ** Verify Search Value Displayed **
+2024-11-06 16:36:20 INFO  SearchTest:40 - ** Verify Search Value Results **
+2024-11-06 16:36:20 INFO  SearchTest:42 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:36:20 INFO  SearchTest:44 - ** Verify Navigation to Product Page **
+2024-11-06 16:36:21 INFO  SearchTest:47 - ** Completed Execution of Search Test**
+2024-11-06 16:36:21 INFO  SearchTest:53 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:36:21 INFO  SearchTest:58 - ** Enter Search Text **
+2024-11-06 16:36:22 INFO  SearchTest:60 - ** Click On Search Icon **
+2024-11-06 16:36:22 INFO  SearchTest:63 - ** Navigating To Search Page **
+2024-11-06 16:36:22 INFO  SearchTest:68 - ** Select Category **
+2024-11-06 16:36:23 INFO  SearchTest:75 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:36:23 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:36:23 INFO  SearchTest:87 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 16:36:23 INFO  SearchTest:89 - ** Navigating To Search Page **
+2024-11-06 16:36:24 INFO  SearchTest:91 - ** Select Sortby Value **
+2024-11-06 16:37:33 INFO  SearchTest:23 - ** Starting Execution Of Search Test **
+2024-11-06 16:37:33 INFO  SearchTest:28 - ** From The Home Page **
+2024-11-06 16:37:33 INFO  SearchTest:30 - ** Enter Search Text **
+2024-11-06 16:37:33 INFO  SearchTest:32 - ** Click On Search Icon **
+2024-11-06 16:37:34 INFO  SearchTest:35 - ** Navigating To Search Page **
+2024-11-06 16:37:35 INFO  SearchTest:38 - ** Verify Search Value Displayed **
+2024-11-06 16:37:35 INFO  SearchTest:40 - ** Verify Search Value Results **
+2024-11-06 16:37:35 INFO  SearchTest:42 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:37:35 INFO  SearchTest:44 - ** Verify Navigation to Product Page **
+2024-11-06 16:37:36 INFO  SearchTest:47 - ** Completed Execution of Search Test**
+2024-11-06 16:37:36 INFO  SearchTest:53 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:37:36 INFO  SearchTest:58 - ** Enter Search Text **
+2024-11-06 16:37:36 INFO  SearchTest:60 - ** Click On Search Icon **
+2024-11-06 16:37:37 INFO  SearchTest:63 - ** Navigating To Search Page **
+2024-11-06 16:37:37 INFO  SearchTest:68 - ** Select Category **
+2024-11-06 16:37:38 INFO  SearchTest:75 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:37:38 INFO  SearchTest:80 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:37:38 INFO  SearchTest:87 - ** Starting Execution Of Searchfilter_SortBy Test **
+2024-11-06 16:37:38 INFO  SearchTest:89 - ** Navigating To Search Page **
+2024-11-06 16:37:38 INFO  SearchTest:91 - ** Select Sortby Value **
+2024-11-06 16:37:39 INFO  SearchTest:94 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:45:26 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 16:45:26 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 16:45:26 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 16:45:26 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 16:45:27 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 16:45:27 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 16:45:27 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 16:45:27 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:45:27 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 16:45:29 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 16:45:29 INFO  SearchTest:49 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:45:29 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 16:45:29 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 16:45:29 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 16:45:30 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 16:45:31 INFO  SearchTest:71 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:45:31 INFO  SearchTest:76 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:45:31 INFO  SearchTest:83 - ** Starting Execution Of Search With Filter Test **
+2024-11-06 16:45:31 INFO  SearchTest:85 - ** Navigating To Search Page **
+2024-11-06 16:45:31 INFO  SearchTest:87 - ** Select Sortby Value **
+2024-11-06 16:45:32 INFO  SearchTest:89 - ** Verify Sortby Value Selected **
+2024-11-06 16:45:32 INFO  SearchTest:91 - ** Select Show Dropdown Value **
+2024-11-06 16:49:30 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 16:49:30 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 16:49:30 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 16:49:30 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 16:49:31 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 16:49:31 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 16:49:32 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 16:49:32 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:49:32 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 16:49:33 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 16:49:33 INFO  SearchTest:49 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:49:33 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 16:49:33 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 16:49:34 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 16:49:34 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 16:49:35 INFO  SearchTest:71 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:49:35 INFO  SearchTest:76 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:49:35 INFO  SearchTest:83 - ** Starting Execution Of Search With Filter Test **
+2024-11-06 16:49:35 INFO  SearchTest:85 - ** Navigating To Search Page **
+2024-11-06 16:49:35 INFO  SearchTest:87 - ** Select Sortby Value **
+2024-11-06 16:49:36 INFO  SearchTest:89 - ** Verify Sortby Value Selected **
+2024-11-06 16:49:36 INFO  SearchTest:91 - ** Select Show Dropdown Value **
+2024-11-06 16:51:58 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 16:51:58 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 16:51:58 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 16:51:59 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 16:51:59 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 16:52:00 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 16:52:00 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 16:52:00 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:52:00 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 16:52:01 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 16:52:01 INFO  SearchTest:49 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:52:01 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 16:52:01 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 16:52:02 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 16:52:02 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 16:52:03 INFO  SearchTest:71 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:52:03 INFO  SearchTest:76 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:52:03 INFO  SearchTest:83 - ** Starting Execution Of Search With Filter Test **
+2024-11-06 16:52:03 INFO  SearchTest:85 - ** Navigating To Search Page **
+2024-11-06 16:52:04 INFO  SearchTest:87 - ** Select Sortby Value **
+2024-11-06 16:52:04 INFO  SearchTest:89 - ** Verify Sortby Value Selected **
+2024-11-06 16:52:04 INFO  SearchTest:91 - ** Select Show Dropdown Value **
+2024-11-06 16:55:16 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 16:55:16 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 16:55:16 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 16:55:16 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 16:55:17 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 16:55:18 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 16:55:18 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 16:55:18 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:55:18 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 16:55:19 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 16:55:19 INFO  SearchTest:49 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:55:19 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 16:55:19 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 16:55:20 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 16:55:20 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 16:55:21 INFO  SearchTest:71 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:55:21 INFO  SearchTest:76 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:55:21 INFO  SearchTest:83 - ** Starting Execution Of Search With Filter Test **
+2024-11-06 16:55:21 INFO  SearchTest:85 - ** Navigating To Search Page **
+2024-11-06 16:55:22 INFO  SearchTest:87 - ** Select Sortby Value **
+2024-11-06 16:55:22 INFO  SearchTest:89 - ** Verify Sortby Value Selected **
+2024-11-06 16:57:26 INFO  SearchTest:19 - ** Starting Execution Of Search Test **
+2024-11-06 16:57:26 INFO  SearchTest:24 - ** From The Home Page **
+2024-11-06 16:57:26 INFO  SearchTest:26 - ** Enter Search Text **
+2024-11-06 16:57:26 INFO  SearchTest:28 - ** Click On Search Icon **
+2024-11-06 16:57:27 INFO  SearchTest:31 - ** Navigating To Search Page **
+2024-11-06 16:57:28 INFO  SearchTest:34 - ** Verify Search Value Displayed **
+2024-11-06 16:57:28 INFO  SearchTest:36 - ** Verify Search Value Results **
+2024-11-06 16:57:28 INFO  SearchTest:38 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:57:28 INFO  SearchTest:40 - ** Verify Navigation to Product Page **
+2024-11-06 16:57:29 INFO  SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-06 16:57:29 INFO  SearchTest:49 - ** Starting Execution Of Search_ChangeCategory Test **
+2024-11-06 16:57:29 INFO  SearchTest:54 - ** Enter Search Text **
+2024-11-06 16:57:29 INFO  SearchTest:56 - ** Click On Search Icon **
+2024-11-06 16:57:30 INFO  SearchTest:59 - ** Navigating To Search Page **
+2024-11-06 16:57:30 INFO  SearchTest:64 - ** Select Category **
+2024-11-06 16:57:31 INFO  SearchTest:71 - ** Verify Products meeting the search criteria are displayed **
+2024-11-06 16:57:31 INFO  SearchTest:76 - ** Completed Execution Of Search_ChangeCategory Test **
+2024-11-06 16:57:31 INFO  SearchTest:83 - ** Starting Execution Of Search With Filter Test **
+2024-11-06 16:57:31 INFO  SearchTest:85 - ** Navigating To Search Page **
+2024-11-06 16:57:32 INFO  SearchTest:87 - ** Select Sortby Value **
+2024-11-06 16:57:32 INFO  SearchTest:89 - ** Verify Sortby Value Selected **
+2024-11-06 16:57:32 INFO  SearchTest:92 - ** Select Show Dropdown Value **
+2024-11-06 16:57:33 INFO  SearchTest:96 - ** Verify Show Dropdown Value **
+2024-11-06 16:57:33 INFO  SearchTest:99 - ** Completed Execution Of Search With Filter Test **

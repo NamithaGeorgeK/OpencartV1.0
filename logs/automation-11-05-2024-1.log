@@ -1,0 +1,249 @@
+2024-11-05 14:09:26 INFO  SearchTest:14 - ** Starting Execution of Search Test **
+2024-11-05 14:10:53 INFO  SearchTest:14 - ** Starting Execution of Search Test **
+2024-11-05 14:13:28 INFO  SearchTest:14 - ** Starting Execution of Search Test **
+2024-11-05 14:14:51 INFO  SearchTest:14 - ** Starting Execution of Search Test **
+2024-11-05 14:36:58 INFO  SearchTest:14 - ** Starting Execution of Search Test **
+2024-11-05 14:38:15 INFO  SearchTest:14 - ** Starting Execution of Search Test **
+2024-11-05 14:39:24 INFO  SearchTest:16 - ** Starting Execution of Search Test **
+2024-11-05 14:42:46 INFO  SearchTest:17 - ** Starting Execution of Search Test **
+2024-11-05 14:43:22 INFO  SearchTest:17 - ** Starting Execution of Search Test **
+2024-11-05 14:45:27 INFO  SearchTest:17 - ** Starting Execution of Search Test **
+2024-11-05 14:49:48 INFO  SearchTest:17 - ** Starting Execution of Search Test **
+2024-11-05 14:50:51 INFO  SearchTest:17 - ** Starting Execution of Search Test **
+2024-11-05 14:51:24 INFO  LoginTest:16 - ** Starting Execution of Login Test **
+2024-11-05 14:51:25 INFO  LoginTest:20 - ** Navigating to Login Page **
+2024-11-05 14:51:26 INFO  LoginTest:24 - ** Provide Login Details **
+2024-11-05 14:51:28 INFO  LoginTest:30 - ** Verifying Login Success **
+2024-11-05 14:51:28 INFO  LoginTest:48 - ** Completed Execution of Login Test **
+2024-11-05 14:51:33 INFO  SearchTest:17 - ** Starting Execution of Search Test **
+2024-11-05 14:53:38 INFO  SearchTest:17 - ** Starting Execution of Search Test **
+2024-11-05 14:55:31 INFO  SearchTest:17 - ** Login to Web Application **
+2024-11-05 14:55:32 INFO  SearchTest:26 - ** Provide Login Details **
+2024-11-05 14:55:34 INFO  SearchTest:35 - ** Verifying Login Success **
+2024-11-05 14:55:34 INFO  SearchTest:54 - ** Login successful **
+2024-11-05 14:55:34 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 14:56:58 INFO  SearchTest:17 - ** Login to Web Application **
+2024-11-05 14:57:00 INFO  SearchTest:26 - ** Provide Login Details **
+2024-11-05 14:57:01 INFO  SearchTest:35 - ** Verifying Login Success **
+2024-11-05 14:57:02 INFO  SearchTest:54 - ** Login successful **
+2024-11-05 14:57:02 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 14:58:53 INFO  SearchTest:17 - ** Login to Web Application **
+2024-11-05 14:58:55 INFO  SearchTest:26 - ** Provide Login Details **
+2024-11-05 14:58:57 INFO  SearchTest:35 - ** Verifying Login Success **
+2024-11-05 14:58:57 INFO  SearchTest:54 - ** Login successful **
+2024-11-05 14:58:57 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:02:26 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:02:27 INFO  SearchTest:26 - ** Enter Search text **
+2024-11-05 15:02:27 INFO  SearchTest:29 - ** Click on Search icon **
+2024-11-05 15:02:28 INFO  SearchTest:38 - ** Completed Execution of Search Test**
+2024-11-05 15:05:53 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:05:53 INFO  SearchTest:23 - ** From The Home Page **
+2024-11-05 15:05:53 INFO  SearchTest:25 - ** Enter Search text **
+2024-11-05 15:05:53 INFO  SearchTest:27 - ** Click on Search icon **
+2024-11-05 15:05:58 INFO  SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 15:10:35 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:10:35 INFO  SearchTest:23 - ** From The Home Page **
+2024-11-05 15:10:35 INFO  SearchTest:25 - ** Enter Search text **
+2024-11-05 15:10:35 INFO  SearchTest:27 - ** Click on Search icon **
+2024-11-05 15:10:36 INFO  SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 15:13:04 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:13:04 INFO  SearchTest:23 - ** From The Home Page **
+2024-11-05 15:13:04 INFO  SearchTest:25 - ** Enter Search text **
+2024-11-05 15:13:04 INFO  SearchTest:27 - ** Click on Search icon **
+2024-11-05 15:13:06 INFO  SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 15:22:10 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:22:10 INFO  SearchTest:23 - ** From The Home Page **
+2024-11-05 15:22:10 INFO  SearchTest:25 - ** Enter Search text **
+2024-11-05 15:22:11 INFO  SearchTest:27 - ** Click on Search icon **
+2024-11-05 15:22:12 INFO  SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 15:22:13 INFO  SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 15:22:13 INFO  SearchTest:35 - ** Verify Search value results **
+2024-11-05 15:24:00 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:24:00 INFO  SearchTest:23 - ** From The Home Page **
+2024-11-05 15:24:01 INFO  SearchTest:25 - ** Enter Search text **
+2024-11-05 15:24:01 INFO  SearchTest:27 - ** Click on Search icon **
+2024-11-05 15:24:02 INFO  SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 15:24:03 INFO  SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 15:24:03 INFO  SearchTest:35 - ** Verify Search value results **
+2024-11-05 15:25:02 INFO  SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:25:02 INFO  SearchTest:23 - ** From The Home Page **
+2024-11-05 15:25:03 INFO  SearchTest:25 - ** Enter Search text **
+2024-11-05 15:25:03 INFO  SearchTest:27 - ** Click on Search icon **
+2024-11-05 15:25:04 INFO  SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 15:25:05 INFO  SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 15:25:05 INFO  SearchTest:35 - ** Verify Search value results **
+2024-11-05 15:25:05 INFO  SearchTest:39 - ** Completed Execution of Search Test**
+2024-11-05 15:30:30 INFO  EmptyString_SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 15:30:30 INFO  EmptyString_SearchTest:23 - ** From The Home Page **
+2024-11-05 15:30:30 INFO  EmptyString_SearchTest:25 - ** Enter Search text **
+2024-11-05 15:30:31 INFO  EmptyString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 15:30:31 INFO  EmptyString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 15:49:46 INFO  EmptyString_SearchTest:19 - ** Starting Execution of Search Test **
+2024-11-05 15:49:46 INFO  EmptyString_SearchTest:24 - ** From The Home Page **
+2024-11-05 15:49:47 INFO  EmptyString_SearchTest:26 - ** Enter Search text **
+2024-11-05 15:49:47 INFO  EmptyString_SearchTest:28 - ** Click on Search icon **
+2024-11-05 15:49:47 INFO  EmptyString_SearchTest:31 - ** Navigating to Search Page **
+2024-11-05 15:49:48 INFO  EmptyString_SearchTest:34 - ** Verify Search value displayed **
+2024-11-05 15:49:48 INFO  EmptyString_SearchTest:36 - ** Verify Search value results **
+2024-11-05 15:50:27 INFO  EmptyString_SearchTest:19 - ** Starting Execution of Search Test **
+2024-11-05 15:50:27 INFO  EmptyString_SearchTest:24 - ** From The Home Page **
+2024-11-05 15:50:28 INFO  EmptyString_SearchTest:26 - ** Enter Search text **
+2024-11-05 15:50:28 INFO  EmptyString_SearchTest:28 - ** Click on Search icon **
+2024-11-05 15:50:29 INFO  EmptyString_SearchTest:31 - ** Navigating to Search Page **
+2024-11-05 15:50:29 INFO  EmptyString_SearchTest:34 - ** Verify Search value displayed **
+2024-11-05 15:50:29 INFO  EmptyString_SearchTest:36 - ** Verify Search value results **
+2024-11-05 15:52:17 INFO  EmptyString_SearchTest:19 - ** Starting Execution of Search Test **
+2024-11-05 15:52:17 INFO  EmptyString_SearchTest:24 - ** From The Home Page **
+2024-11-05 15:52:17 INFO  EmptyString_SearchTest:26 - ** Enter Search text **
+2024-11-05 15:52:17 INFO  EmptyString_SearchTest:28 - ** Click on Search icon **
+2024-11-05 15:52:18 INFO  EmptyString_SearchTest:31 - ** Navigating to Search Page **
+2024-11-05 15:52:18 INFO  EmptyString_SearchTest:34 - ** Verify Search value displayed **
+2024-11-05 15:52:18 INFO  EmptyString_SearchTest:36 - ** Verify Search value results **
+2024-11-05 15:53:08 INFO  EmptyString_SearchTest:19 - ** Starting Execution of Search Test **
+2024-11-05 15:53:08 INFO  EmptyString_SearchTest:24 - ** From The Home Page **
+2024-11-05 15:53:08 INFO  EmptyString_SearchTest:26 - ** Enter Search text **
+2024-11-05 15:53:08 INFO  EmptyString_SearchTest:28 - ** Click on Search icon **
+2024-11-05 15:53:09 INFO  EmptyString_SearchTest:31 - ** Navigating to Search Page **
+2024-11-05 15:53:09 INFO  EmptyString_SearchTest:34 - ** Verify Search value displayed **
+2024-11-05 15:53:09 INFO  EmptyString_SearchTest:36 - ** Verify Search value results **
+2024-11-05 15:53:09 INFO  EmptyString_SearchTest:39 - ** Verify Search value results with invalid or empty search string **
+2024-11-05 15:53:10 INFO  EmptyString_SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-05 15:54:41 INFO  InvalidString_SearchTest:19 - ** Starting Execution of Search Test **
+2024-11-05 15:54:41 INFO  InvalidString_SearchTest:24 - ** From The Home Page **
+2024-11-05 15:54:41 INFO  InvalidString_SearchTest:26 - ** Enter Search text **
+2024-11-05 15:54:42 INFO  InvalidString_SearchTest:28 - ** Click on Search icon **
+2024-11-05 15:54:42 INFO  InvalidString_SearchTest:31 - ** Navigating to Search Page **
+2024-11-05 15:54:43 INFO  InvalidString_SearchTest:34 - ** Verify Search value displayed **
+2024-11-05 15:54:43 INFO  InvalidString_SearchTest:36 - ** Verify Search value results **
+2024-11-05 15:54:43 INFO  InvalidString_SearchTest:39 - ** Verify Search value results with invalid or empty search string **
+2024-11-05 15:54:43 INFO  InvalidString_SearchTest:41 - ** Completed Execution of Search Test**
+2024-11-05 16:02:13 INFO  SearchTest:18 - ** Starting Execution Of Search Test **
+2024-11-05 16:02:13 INFO  SearchTest:23 - ** From The Home Page **
+2024-11-05 16:02:13 INFO  SearchTest:25 - ** Enter Search Text **
+2024-11-05 16:02:13 INFO  SearchTest:27 - ** Click On Search Icon **
+2024-11-05 16:02:15 INFO  SearchTest:30 - ** Navigating To Search Page **
+2024-11-05 16:02:16 INFO  SearchTest:33 - ** Verify Search Value Displayed **
+2024-11-05 16:02:16 INFO  SearchTest:35 - ** Verify Search Value Results **
+2024-11-05 16:03:55 INFO  SearchTest:18 - ** Starting Execution Of Search Test **
+2024-11-05 16:03:55 INFO  SearchTest:23 - ** From The Home Page **
+2024-11-05 16:03:55 INFO  SearchTest:25 - ** Enter Search Text **
+2024-11-05 16:03:55 INFO  SearchTest:27 - ** Click On Search Icon **
+2024-11-05 16:03:57 INFO  SearchTest:30 - ** Navigating To Search Page **
+2024-11-05 16:03:57 INFO  SearchTest:33 - ** Verify Search Value Displayed **
+2024-11-05 16:03:57 INFO  SearchTest:35 - ** Verify Search Value Results **
+2024-11-05 16:03:57 INFO  SearchTest:37 - ** Verify Products meeting the search criteria are displayed **
+2024-11-05 16:03:58 INFO  SearchTest:39 - ** Verify Navigation to Product Page **
+2024-11-05 16:03:59 INFO  SearchTest:42 - ** Completed Execution of Search Test**
+2024-11-05 16:08:50 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 16:08:50 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:08:50 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:08:50 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:08:51 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:08:51 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:08:51 INFO  InvalidString_SearchTest:40 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:08:52 INFO  InvalidString_SearchTest:43 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:08:52 INFO  InvalidString_SearchTest:46 - ** Completed Execution of Search Test**
+2024-11-05 16:09:42 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 16:09:42 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:09:42 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:09:42 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:09:43 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:09:44 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:09:44 INFO  InvalidString_SearchTest:40 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:09:44 INFO  InvalidString_SearchTest:43 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:10:32 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 16:10:32 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:10:33 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:10:33 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:10:34 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:10:34 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:10:34 INFO  InvalidString_SearchTest:40 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:10:34 INFO  InvalidString_SearchTest:43 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:13:13 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 16:13:13 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:13:14 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:13:14 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:13:15 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:13:15 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:13:15 INFO  InvalidString_SearchTest:40 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:13:15 INFO  InvalidString_SearchTest:43 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:16:39 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 16:16:39 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:16:39 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:16:39 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:16:40 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:16:41 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:16:41 INFO  InvalidString_SearchTest:45 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:16:41 INFO  InvalidString_SearchTest:48 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:20:56 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 16:20:56 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:20:57 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:20:57 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:20:58 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:20:58 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:20:58 INFO  InvalidString_SearchTest:37 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:20:58 INFO  InvalidString_SearchTest:40 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:20:58 INFO  InvalidString_SearchTest:43 - ** Completed Execution of Search Test**
+2024-11-05 16:27:48 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search Test **
+2024-11-05 16:27:48 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:27:48 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:27:48 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:27:49 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:27:50 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:27:50 INFO  InvalidString_SearchTest:38 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:27:50 INFO  InvalidString_SearchTest:41 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:27:50 INFO  InvalidString_SearchTest:44 - ** Completed Execution of Search Test**
+2024-11-05 16:32:34 INFO  InvalidString_SearchTest:49 - ** Starting Execution of Search with Empty String Test **
+2024-11-05 16:32:34 INFO  InvalidString_SearchTest:54 - ** From The Home Page **
+2024-11-05 16:32:34 INFO  InvalidString_SearchTest:56 - ** Enter Search text **
+2024-11-05 16:32:35 INFO  InvalidString_SearchTest:58 - ** Click on Search icon **
+2024-11-05 16:32:35 INFO  InvalidString_SearchTest:61 - ** Navigating to Search Page **
+2024-11-05 16:32:35 INFO  InvalidString_SearchTest:64 - ** Verify Search value displayed **
+2024-11-05 16:32:36 INFO  InvalidString_SearchTest:69 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:32:36 INFO  InvalidString_SearchTest:72 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:32:36 INFO  InvalidString_SearchTest:75 - ** Completed Execution of Search with Empty String Test**
+2024-11-05 16:32:36 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search with Invalid String Test **
+2024-11-05 16:32:36 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:32:36 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:32:36 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:32:37 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:32:37 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:32:37 INFO  InvalidString_SearchTest:37 - ** Verify Search value results  with Invalid or Empty Search String **
+2024-11-05 16:32:37 INFO  InvalidString_SearchTest:40 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:32:37 INFO  InvalidString_SearchTest:43 - ** Completed Execution of Search with Invalid String Test**
+2024-11-05 16:34:20 INFO  InvalidString_SearchTest:49 - ** Starting Execution of Search with Empty String Test **
+2024-11-05 16:34:20 INFO  InvalidString_SearchTest:54 - ** From The Home Page **
+2024-11-05 16:34:20 INFO  InvalidString_SearchTest:56 - ** Enter Search text **
+2024-11-05 16:34:20 INFO  InvalidString_SearchTest:58 - ** Click on Search icon **
+2024-11-05 16:34:20 INFO  InvalidString_SearchTest:61 - ** Navigating to Search Page **
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:64 - ** Verify Search value displayed **
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:69 - ** Verify Search value results  with Empty Search String **
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:72 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:75 - ** Completed Execution of Search with Empty String Test**
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search with Invalid String Test **
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:34:21 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:34:22 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:34:22 INFO  InvalidString_SearchTest:37 - ** Verify Search value results  with Invalid Search String **
+2024-11-05 16:34:22 INFO  InvalidString_SearchTest:40 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:34:22 INFO  InvalidString_SearchTest:43 - ** Completed Execution of Search with Invalid String Test**
+2024-11-05 16:37:02 INFO  InvalidString_SearchTest:49 - ** Starting Execution of Search with Empty String Test **
+2024-11-05 16:37:02 INFO  InvalidString_SearchTest:54 - ** From The Home Page **
+2024-11-05 16:37:02 INFO  InvalidString_SearchTest:56 - ** Enter Search text **
+2024-11-05 16:37:02 INFO  InvalidString_SearchTest:58 - ** Click on Search icon **
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:61 - ** Navigating to Search Page **
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:64 - ** Verify Search value displayed **
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:69 - ** Verify Search value results  with Empty Search String **
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:72 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:75 - ** Completed Execution of Search with Empty String Test**
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:18 - ** Starting Execution of Search with Invalid String Test **
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:23 - ** From The Home Page **
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:25 - ** Enter Search text **
+2024-11-05 16:37:03 INFO  InvalidString_SearchTest:27 - ** Click on Search icon **
+2024-11-05 16:37:04 INFO  InvalidString_SearchTest:30 - ** Navigating to Search Page **
+2024-11-05 16:37:04 INFO  InvalidString_SearchTest:33 - ** Verify Search value displayed **
+2024-11-05 16:37:04 INFO  InvalidString_SearchTest:37 - ** Verify Search value results  with Invalid Search String **
+2024-11-05 16:37:04 INFO  InvalidString_SearchTest:40 - ** Verify Text - No Product Match is displayed **
+2024-11-05 16:37:04 INFO  InvalidString_SearchTest:43 - ** Completed Execution of Search with Invalid String Test**
